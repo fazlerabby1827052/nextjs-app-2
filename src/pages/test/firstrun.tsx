@@ -3,8 +3,8 @@ import React from 'react'
 
 const firstrun:NextPage=() =>{
   return (
-    <><div>firstrun</div>
-      <div>second</div>
+    <><div>firstrun</div> 
+      <div>third</div>
     </>
   )
 }
